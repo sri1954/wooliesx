@@ -1,10 +1,10 @@
 
 WooliesX Solution Projects
 ==================================
-1. .Net Core 3.1 MVC Razor web application project
-2. .Net Core 3.1 Web API project
-3. .Net Core 3.1 Class Library project for API infrastructure
-4. .Net Core 3.1 xUnit Test project
+1. .Net Core 5.0 MVC Razor web application project
+2. .Net Core 5.0 Web API project
+3. .Net Core 5.0 Class Library project for API infrastructure
+4. .Net Core 5.0 xUnit Test project
 
 How to Run
 ==================================
