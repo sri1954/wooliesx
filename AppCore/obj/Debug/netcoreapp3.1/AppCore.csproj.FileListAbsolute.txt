@@ -1,0 +1,9 @@
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\netcoreapp3.1\AppCore.deps.json
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\netcoreapp3.1\AppCore.dll
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\netcoreapp3.1\AppCore.pdb
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\netcoreapp3.1\AppCore.csprojAssemblyReference.cache
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\netcoreapp3.1\AppCore.AssemblyInfoInputs.cache
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\netcoreapp3.1\AppCore.AssemblyInfo.cs
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\netcoreapp3.1\AppCore.csproj.CoreCompileInputs.cache
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\netcoreapp3.1\AppCore.dll
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\netcoreapp3.1\AppCore.pdb

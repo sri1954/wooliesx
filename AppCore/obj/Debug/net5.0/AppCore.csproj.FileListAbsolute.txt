@@ -1,0 +1,12 @@
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\net5.0\AppCore.deps.json
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\net5.0\AppCore.dll
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\net5.0\ref\AppCore.dll
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\bin\Debug\net5.0\AppCore.pdb
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.csprojAssemblyReference.cache
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfoInputs.cache
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.AssemblyInfo.cs
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.csproj.CoreCompileInputs.cache
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.dll
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\ref\AppCore.dll
+D:\Srinivasan\WooliesXTechChallange\WooliesXTechChallange\AppCore\obj\Debug\net5.0\AppCore.pdb
