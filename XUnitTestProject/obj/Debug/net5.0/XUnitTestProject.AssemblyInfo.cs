@@ -11,8 +11,8 @@
 using System;
 using System.Reflection;
 
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AppCore", "D:\\Srinivasan\\WooliesXTechChallange\\WooliesXTechChallange\\AppCore", "AppCore.csproj", "0")]
-[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebAPI", "D:\\Srinivasan\\WooliesXTechChallange\\WooliesXTechChallange\\WebAPI", "WebAPI.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("AppCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Srinivasan\\WooliesXTechChallange\\WooliesXTechChallange\\AppCore", "AppCore.csproj", "0")]
+[assembly: Microsoft.AspNetCore.Mvc.Testing.WebApplicationFactoryContentRootAttribute("WebAPI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null", "D:\\Srinivasan\\WooliesXTechChallange\\WooliesXTechChallange\\WebAPI", "WebAPI.csproj", "0")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("XUnitTestProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
